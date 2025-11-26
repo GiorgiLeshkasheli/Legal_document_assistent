@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-google-genai
+langchain-huggingface
+google-generativeai==0.8.5
+faiss-cpu
+sentence-transformers
+pypdf
+python-dotenv
+streamlit
+tiktoken
+streamlit

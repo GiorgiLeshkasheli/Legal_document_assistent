@@ -1,0 +1,10 @@
+[
+  [
+    "user",
+    "What do these documents say about account termination?"
+  ],
+  [
+    "assistant",
+    "The provided documents address account termination primarily in the context of user-initiated deletion and account disabling due to policy violations, focusing heavily on the subsequent preservation of information.\n\nKey points regarding account termination or disabling:\n\n1.  **User-Initiated Deletion:** Users are provided with tools to delete specific information or request the deletion of their account.\n2.  **Disabling for Violations:** Accounts may be disabled for \"violations of our terms and policies.\" If a user posts threatening or harmful content, this may result in the disabling of their account across the Meta Companies.\n3.  **Information Preservation After Deletion/Disabling:** Information may be preserved even after a user requests account deletion or after an account has been disabled for policy violations. Reasons for such preservation include:\n    *   **Preventing New Accounts:** If an account is disabled for violating terms, information about that user is preserved for \"safety, security and integrity purposes\" to prevent the user from opening a new account.\n    *   **Legal and Regulatory Compliance:** Preservation may occur if related to a legal request (e.g., preservation order or search warrant), governmental investigation, litigation, or to comply with applicable law (such as Meta’s accounting obligations regarding purchases or transactions).\n    *   **Suspicious Activity:** Account information may be preserved as part of a review of suspicious activity, including activity associated with financial products (e.g., suspected money laundering or terrorist funding).\n\nSources:\nPage 73\nPage 88\nPage 90\nPage 91"
+  ]
+]

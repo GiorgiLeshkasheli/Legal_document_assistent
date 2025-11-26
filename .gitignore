@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# FAISS index
+data/vectorstore/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit cache
+.streamlit/
+
+# VSCode settings
+.vscode/
